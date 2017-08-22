@@ -6,7 +6,11 @@ And all of that with a twist of node.js
 Requirements:
 
 libxmljs
+npm install libxmljs
+
 winston - Might be removed in future versions.
+npm install winston
+
 
 This is still a work in progress, see the tests.js for example on usage.
 
@@ -41,4 +45,4 @@ Finally you must edit http.conf and enable it by setting "enable" attribute to y
 
 Installation
 
-Simple as nmp install node-shift8
+Simple as npm install node-shift8
